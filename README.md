@@ -1,6 +1,6 @@
 ## Ola! Eu sou o Daniel! 👋
 
-- 🌱 Atualmente estou trabalhando como estagiario de T.I
+- 🌱 Atualmente estou a procura de estagios na area de DevOps
 - 📫 Contate-me no email: daniel_sgsilva@hotmail.com
 - 😄 Pronouns: ele/dele
 
